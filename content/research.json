@@ -1,17 +1,10 @@
 {
   "currentResearch": [
     {
-      "lab": "The Cozy Corner",
-      "emoji": "🛋️",
-      "advisor": "Dr. Warm Lap",
-      "focus": "warmth-seeking behavior and human-proximity optimization",
-      "link": "#"
-    },
-    {
-      "lab": "Lucas & Cookie Play Lab",
-      "emoji": "🐱",
-      "advisor": "Prof. Lucas",
-      "focus": "cross-species play dynamics and cooperative napping",
+      "lab": "Statistical Learning Group",
+      "emoji": "📊",
+      "advisor": "Prof. Rong Tang",
+      "focus": "Bayesian statistics and machine learning theory (exploring)",
       "link": "#"
     }
   ]

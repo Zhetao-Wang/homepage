@@ -2,66 +2,152 @@
   "education": {
     "courses": [
       {
-        "course": "Master of Cuddle Sciences",
-        "institution": "Yaoyao's Lap Lab",
-        "year": "2024-2026"
+        "course": "Ph.D. in Statistics",
+        "institution": "Hong Kong University of Science and Technology",
+        "year": "2026-Present"
       },
       {
-        "course": "Bachelor of Good Girl Arts",
-        "institution": "Home Sweet Home",
-        "year": "2020-2024"
+        "course": "B.S. in Mathematics",
+        "institution": "Zhejiang University",
+        "year": "2022-2026"
       }
     ]
   },
-  "reviewing": [
-    { "venue": "International Conference on Treat Fairness 2026", "role": "Reviewer" },
-    { "venue": "Workshop on Cross-Species Play Dynamics 2025", "role": "Reviewer" }
-  ],
+  "reviewing": [],
   "timeline": [
     {
-      "title": "Senior Cuddle Researcher",
-      "company": "The Cozy Corner",
+      "title": "KDD Cup 2025 Participant",
+      "company": "HKUST (GZ)",
       "companyUrl": "#",
-      "location": "Next to Yaoyao",
-      "start": "2024-09-01",
-      "category": "research",
-      "roleType": "research",
+      "location": "Hong Kong, China",
+      "start": "2026-04-01",
+      "category": "competition",
+      "roleType": "mle",
       "isCurrent": true,
-      "summary": "Focus: warmth-seeking optimization and human-proximity maximization.",
+      "summary": "Participating in KDD Cup 2025 hosted by HKUST Guangzhou Campus - a Data Agent construction competition.",
       "highlights": [
-        "Achieved 100% lap occupation rate during work-from-home hours.",
-        "Discovered that paw shakes increase treat yield by 60%.",
-        "Co-authored a paper with Lucas on optimal sunbeam sharing schedules."
+        "Building intelligent Data Agent systems for real-world data analysis tasks.",
+        "Competition is currently ongoing."
       ]
     },
     {
-      "title": "Junior Play Companion",
-      "company": "Lucas & Cookie Inc.",
+      "title": "High-Frequency Prediction Competition",
+      "company": "Lingjun Quant",
       "companyUrl": "#",
-      "location": "Living Room",
-      "start": "2023-01-15",
-      "end": "2024-05-20",
-      "category": "research",
-      "roleType": "research",
+      "location": "Online",
+      "start": "2024-11-01",
+      "end": "2025-03-31",
+      "category": "competition",
+      "roleType": "mle",
+      "summary": "Participated in Lingjun Quant's high-frequency prediction competition.",
       "highlights": [
-        "Developed a multi-species play protocol with Ragdoll cat brother Lucas.",
-        "Optimized chase-and-tumble sequences for maximum fun with minimum furniture damage.",
-        "Won Best Duo Award at the annual living room play session."
+        "First hands-on experience with neural networks in a real-world trading scenario.",
+        "Rank was not high, but gained valuable practical ML experience."
       ]
     },
     {
-      "title": "Treat Quality Intern",
-      "company": "Kitchen Counter Labs",
+      "title": "Social Practice Team Member",
+      "company": "Zhejiang University",
       "companyUrl": "#",
-      "location": "Kitchen",
-      "start": "2025-06-01",
-      "end": "2025-08-31",
+      "location": "Huzhou, Zhejiang, China",
+      "start": "2023-08-01",
+      "end": "2023-08-31",
+      "category": "activity",
+      "roleType": "leadership",
+      "summary": "Participated in a social practice team to Huzhou for community research and service activities.",
+      "highlights": [
+        "Awarded Zhejiang University Outstanding Social Practice Team (University-level honor).",
+        "Conducted field research on local community development as a team member."
+      ]
+    },
+    {
+      "title": "Best Debater, Danqing Debate Team",
+      "company": "Zhejiang University Danqing College",
+      "companyUrl": "#",
+      "location": "Hangzhou, China",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "category": "activity",
+      "roleType": "leadership",
+      "summary": "Active member and award-winning debater in the university debate team in 2023.",
+      "highlights": [
+        "Multiple awards as Best Debater in inter-collegiate debate competitions.",
+        "Participated in various debate tournaments and public speaking events."
+      ]
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Hangzhou Olida Elevator Co., Ltd.",
+      "companyUrl": "#",
+      "location": "Hangzhou, China",
+      "start": "2026-03-01",
       "category": "industry",
       "roleType": "sde",
+      "isCurrent": true,
+      "summary": "Full-stack software development for elevator management systems.",
       "highlights": [
-        "Evaluated 200+ treat varieties using advanced sniff-and-taste methodology.",
-        "Reduced treat waste to 0% (consumed all samples).",
-        "Developed a paw-shake-to-treat conversion pipeline with 3x throughput improvement."
+        "Developing and maintaining enterprise-level software solutions.",
+        "Building data-driven applications with modern tech stack."
+      ]
+    },
+    {
+      "title": "Summer Researcher",
+      "company": "Hong Kong University of Science and Technology",
+      "companyUrl": "#",
+      "location": "Hong Kong",
+      "start": "2025-07-01",
+      "end": "2025-08-31",
+      "category": "research",
+      "roleType": "research",
+      "summary": "Summer research program in Bayesian statistics under Prof. Rong Tang.",
+      "highlights": [
+        "Explored theoretical foundations of Bayesian inference methods.",
+        "Gained exposure to advanced statistical computing techniques."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Zhejiang University Data Center",
+      "companyUrl": "#",
+      "location": "Hangzhou, China",
+      "start": "2024-09-01",
+      "end": "2025-02-28",
+      "category": "research",
+      "roleType": "research",
+      "summary": "Research on algorithmic problems in SQL-based data pricing.",
+      "highlights": [
+        "Investigated pricing algorithms for query-based data markets.",
+        "Developed optimization methods for SQL query pricing computation."
+      ]
+    },
+    {
+      "title": "Visiting Student",
+      "company": "National University of Singapore",
+      "companyUrl": "#",
+      "location": "Singapore",
+      "start": "2024-05-01",
+      "end": "2024-05-31",
+      "category": "education",
+      "roleType": "research",
+      "summary": "Short-term academic visit to the Department of Mathematics.",
+      "highlights": [
+        "Participated in academic seminars and research discussions.",
+        "Explored advanced topics in mathematical analysis and statistics."
+      ]
+    },
+    {
+      "title": "Research Trainee",
+      "company": "Zhejiang University School of Economics",
+      "companyUrl": "#",
+      "location": "Hangzhou, China",
+      "start": "2024-03-01",
+      "end": "2025-03-31",
+      "category": "research",
+      "roleType": "research",
+      "summary": "Research training program on AI's impact on service industries.",
+      "highlights": [
+        "Analyzed the transformative effects of artificial intelligence on service sectors.",
+        "Conducted literature reviews and empirical studies on technology adoption."
       ]
     }
   ]

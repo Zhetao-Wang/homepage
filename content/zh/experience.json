@@ -2,66 +2,152 @@
   "education": {
     "courses": [
       {
-        "course": "撒娇科学硕士",
-        "institution": "Yaoyao 的膝盖实验室",
-        "year": "2024-2026"
+        "course": "统计学博士",
+        "institution": "香港科技大学",
+        "year": "2026-至今"
       },
       {
-        "course": "乖乖艺术学士",
-        "institution": "温馨小窝",
-        "year": "2020-2024"
+        "course": "数学学士",
+        "institution": "浙江大学",
+        "year": "2022-2026"
       }
     ]
   },
-  "reviewing": [
-    { "venue": "国际零食公平会议 2026", "role": "审稿人" },
-    { "venue": "跨物种玩耍动力学研讨会 2025", "role": "审稿人" }
-  ],
+  "reviewing": [],
   "timeline": [
     {
-      "title": "资深撒娇研究员",
-      "company": "温暖角落",
+      "title": "KDD Cup 2025 参赛者",
+      "company": "港科大（广州）",
       "companyUrl": "#",
-      "location": "Yaoyao 身边",
-      "start": "2024-09-01",
-      "category": "research",
-      "roleType": "research",
+      "location": "香港",
+      "start": "2026-04-01",
+      "category": "competition",
+      "roleType": "mle",
       "isCurrent": true,
-      "summary": "研究方向：取暖行为优化和人类距离最小化。",
+      "summary": "参加港科大广州校区主办的 KDD Cup 2025 - Data Agent 构建比赛。",
       "highlights": [
-        "在居家办公时段实现了 100% 的膝盖占领率。",
-        "发现握手可将零食获取率提升 60%。",
-        "与 Lucas 合著了一篇关于最优阳光共享时间表的论文。"
+        "构建面向真实数据分析任务的智能 Data Agent 系统。",
+        "比赛正在进行中。"
       ]
     },
     {
-      "title": "初级玩耍伙伴",
-      "company": "Lucas & Cookie 联合公司",
+      "title": "高频预测比赛",
+      "company": "灵均量化投资",
       "companyUrl": "#",
-      "location": "客厅",
-      "start": "2023-01-15",
-      "end": "2024-05-20",
-      "category": "research",
-      "roleType": "research",
+      "location": "线上",
+      "start": "2024-11-01",
+      "end": "2025-03-31",
+      "category": "competition",
+      "roleType": "mle",
+      "summary": "参加灵均量化投资的高频预测比赛。",
       "highlights": [
-        "与布偶猫弟弟 Lucas 开发了跨物种玩耍协议。",
-        "优化了追逐翻滚序列，实现最大乐趣与最小家具损伤。",
-        "在年度客厅玩耍大赛中获得最佳搭档奖。"
+        "第一次接触神经网络实战任务。",
+        "名次不高，但获得了宝贵的机器学习实践经验。"
       ]
     },
     {
-      "title": "零食品鉴实习生",
-      "company": "厨房台面实验室",
+      "title": "社会实践团队成员",
+      "company": "浙江大学",
       "companyUrl": "#",
-      "location": "厨房",
-      "start": "2025-06-01",
-      "end": "2025-08-31",
+      "location": "浙江湖州",
+      "start": "2023-08-01",
+      "end": "2023-08-31",
+      "category": "activity",
+      "roleType": "leadership",
+      "summary": "作为团队成员前往湖州开展社会实践调研活动。",
+      "highlights": [
+        "所在团队获得浙江大学校级优秀社会实践团队表彰。",
+        "参与地方社区发展的实地调研工作。"
+      ]
+    },
+    {
+      "title": "丹青辩论队最佳辩手",
+      "company": "浙江大学丹青学院",
+      "companyUrl": "#",
+      "location": "杭州，中国",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "category": "activity",
+      "roleType": "leadership",
+      "summary": "2023年在校辩论队的活跃成员和获奖辩手。",
+      "highlights": [
+        "在校际辩论赛中多次获得最佳辩手奖项。",
+        "参加各类辩论比赛和演讲活动。"
+      ]
+    },
+    {
+      "title": "软件开发工程师",
+      "company": "杭州奥利达电梯有限公司",
+      "companyUrl": "#",
+      "location": "杭州，中国",
+      "start": "2026-03-01",
       "category": "industry",
       "roleType": "sde",
+      "isCurrent": true,
+      "summary": "电梯管理系统全栈软件开发。",
       "highlights": [
-        "使用先进的闻一闻尝一尝方法评估了 200+ 种零食。",
-        "将零食浪费率降至 0%（全部样品已消耗）。",
-        "开发了握手换零食流水线，吞吐量提升 3 倍。"
+        "开发和维护企业级软件解决方案。",
+        "使用现代技术栈构建数据驱动的应用程序。"
+      ]
+    },
+    {
+      "title": "暑期研究员",
+      "company": "香港科技大学",
+      "companyUrl": "#",
+      "location": "香港",
+      "start": "2025-07-01",
+      "end": "2025-08-31",
+      "category": "research",
+      "roleType": "research",
+      "summary": "在唐蓉教授指导下进行贝叶斯统计暑期研究项目。",
+      "highlights": [
+        "探索贝叶斯推断方法的理论基础。",
+        "接触高级统计计算技术。"
+      ]
+    },
+    {
+      "title": "研究助理",
+      "company": "浙江大学数据中心",
+      "companyUrl": "#",
+      "location": "杭州，中国",
+      "start": "2024-09-01",
+      "end": "2025-02-28",
+      "category": "research",
+      "roleType": "research",
+      "summary": "基于SQL的数据定价算法问题研究。",
+      "highlights": [
+        "研究查询型数据市场的定价算法。",
+        "开发SQL查询定价计算的优化方法。"
+      ]
+    },
+    {
+      "title": "访问学生",
+      "company": "新加坡国立大学",
+      "companyUrl": "#",
+      "location": "新加坡",
+      "start": "2024-05-01",
+      "end": "2024-05-31",
+      "category": "education",
+      "roleType": "research",
+      "summary": "数学系短期学术访问。",
+      "highlights": [
+        "参加学术研讨会和研究讨论。",
+        "探索数学分析和统计学的高级课题。"
+      ]
+    },
+    {
+      "title": "研究实习生",
+      "company": "浙江大学经济学院",
+      "companyUrl": "#",
+      "location": "杭州，中国",
+      "start": "2024-03-01",
+      "end": "2025-03-31",
+      "category": "research",
+      "roleType": "research",
+      "summary": "关于人工智能对服务业影响的研究培训项目。",
+      "highlights": [
+        "分析人工智能对服务行业的变革性影响。",
+        "进行技术采用的文献综述和实证研究。"
       ]
     }
   ]

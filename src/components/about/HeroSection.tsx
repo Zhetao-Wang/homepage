@@ -249,7 +249,7 @@ const HeroSection = ({ title, avatar, research = [], researchLogos = {}, educati
           >
             <VStack spacing={[2, 3]}>
               <Image
-                src={withBase(`images/${avatar}`)}
+                src={avatar.startsWith('/') ? avatar : withBase(`images/${avatar}`)}
                 alt={title}
                 borderRadius="xl"
                 boxSize={["150px", "180px", "220px"]}

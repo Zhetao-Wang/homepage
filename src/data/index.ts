@@ -23,13 +23,13 @@ import type {
 const projectMdsEn = import.meta.glob('/content/projects/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 const articleMdsEn = import.meta.glob('/content/articles/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 const publicationMdsEn = import.meta.glob('/content/publications/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
-const aboutMdEn = import.meta.glob('/content/about.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
+const aboutMdEn = import.meta.glob('../../content/about.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 
 // Chinese
 const projectMdsZh = import.meta.glob('/content/zh/projects/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 const articleMdsZh = import.meta.glob('/content/zh/articles/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 const publicationMdsZh = import.meta.glob('/content/zh/publications/*.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
-const aboutMdZh = import.meta.glob('/content/zh/about.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
+const aboutMdZh = import.meta.glob('../../content/zh/about.md', { eager: true }) as Record<string, { default: Record<string, unknown> }>
 
 function collectMd(modules: Record<string, { default: Record<string, unknown> }>): Record<string, unknown>[] {
   return Object.values(modules).map(m => {
