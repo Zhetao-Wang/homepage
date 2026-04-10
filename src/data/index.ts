@@ -40,8 +40,8 @@ function collectMd(modules: Record<string, { default: Record<string, unknown> }>
 
 // Convert Markdown body into the fields components expect
 function mdToProject(raw: Record<string, unknown>): ProjectItem {
-  const { _body, ...rest } = raw
-  const bodyStr = (_body as string) || ''
+  const { body, ...rest } = raw
+  const bodyStr = (body as string) || ''
 
   const highlights: string[] = []
   const lines = bodyStr.replace(/<[^>]+>/g, '').split('\n')
@@ -63,15 +63,15 @@ function mdToProject(raw: Record<string, unknown>): ProjectItem {
 }
 
 function mdToPublication(raw: Record<string, unknown>): Publication {
-  const { _body, ...rest } = raw
-  const bodyStr = (_body as string) || ''
+  const { body, ...rest } = raw
+  const bodyStr = (body as string) || ''
   const abstract = bodyStr.replace(/<[^>]+>/g, '').trim()
   return { abstract, ...rest } as unknown as Publication
 }
 
 function mdToAbout(raw: Record<string, unknown>): About {
-  const { _body, ...rest } = raw
-  const bodyStr = (_body as string) || ''
+  const { body, ...rest } = raw
+  const bodyStr = (body as string) || ''
   const journey = bodyStr.replace(/<[^>]+>/g, '').trim()
   return { journey, ...rest } as unknown as About
 }
