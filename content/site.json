@@ -10,7 +10,7 @@
   },
   "title": "Hi there, I'm Zhetao Wang",
   "tagline": "PhD student in Statistics, table tennis enthusiast, competing in amateur tournaments frequently.",
-  "avatar": "/images/avatar.jpg",
+  "avatar": "./images/avatar.jpg",
   "terminal": {
     "username": "Avery",
     "rotatingSubtitles": [

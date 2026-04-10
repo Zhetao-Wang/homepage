@@ -17,7 +17,7 @@
   },
   "title": "你好，我是王哲涛",
   "tagline": "统计学博士生，乒乓球狂热爱好者，以极高的频率参加业余比赛。",
-  "avatar": "/images/avatar.jpg",
+  "avatar": "./images/avatar.jpg",
   "terminal": {
     "username": "avery",
     "rotatingSubtitles": [
