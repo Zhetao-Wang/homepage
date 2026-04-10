@@ -9,6 +9,7 @@
     "authorVariants": ["Zhetao Wang"]
   },
   "title": "Hi there, I'm Zhetao Wang",
+  "tagline": "PhD student in Statistics, table tennis enthusiast, competing in amateur tournaments frequently.",
   "avatar": "/images/avatar.jpg",
   "terminal": {
     "username": "Avery",
@@ -20,15 +21,15 @@
       "write some code"
     ],
     "skills": [
-      "Python",
-      "PyTorch",
-      "SQL",
-      "Bayesian Statistics",
-      "Machine Learning",
-      "TypeScript",
-      "Claude Code",
-      "Docker",
-      "Agent"
+      { "name": "Python", "icon": "FaCode" },
+      { "name": "PyTorch", "icon": "FaRobot" },
+      { "name": "SQL", "icon": "FaDatabase" },
+      { "name": "Bayesian Statistics", "icon": "FaChartBar" },
+      { "name": "Machine Learning", "icon": "FaBrain" },
+      { "name": "TypeScript", "icon": "FaCode" },
+      { "name": "Claude Code", "icon": "FaRobot" },
+      { "name": "Docker", "icon": "FaServer" },
+      { "name": "Agent", "icon": "FaRobot" }
     ],
     "timezone": "America/Los_Angeles"
   },
